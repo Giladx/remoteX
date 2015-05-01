@@ -469,7 +469,7 @@ void testApp::guiEvent(ofxUIEventArgs &e)
     {
     ofxUIButton *button = (ofxUIButton *) e.getButton();
     cout << "got event from: " << name << endl;
-    cmd = "remmina";
+//    cmd = "remmina";
 
     //ofxOscMessage m;
     //m.setAddress("/active/video/load");
