@@ -11,8 +11,28 @@
     <Value>0</Value>
 </Widget>
 <Widget>
-    <Kind>2</Kind>
-    <Name>c load</Name>
+    <Kind>22</Kind>
+    <Name>device num</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>camera 0</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>camera 1</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>camera 2</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>camera 3</Name>
     <Value>0</Value>
 </Widget>
 <Widget>
@@ -23,7 +43,7 @@
 <Widget>
     <Kind>25</Kind>
     <Name>c scale y</Name>
-    <Value>0.000000002</Value>
+    <Value>1.000000000</Value>
 </Widget>
 <Widget>
     <Kind>2</Kind>
@@ -63,7 +83,7 @@
 <Widget>
     <Kind>25</Kind>
     <Name>c alpha</Name>
-    <Value>0.000000000</Value>
+    <Value>1.000000000</Value>
 </Widget>
 <Widget>
     <Kind>2</Kind>

@@ -309,7 +309,7 @@ obj/linux64/Debug/src/main.o: src/main.cpp \
  ../../../libs/openFrameworks/video/ofVideoPlayer.h \
  ../../../libs/openFrameworks/video/ofGstVideoPlayer.h \
  ../../../libs/openFrameworks/3d/ofCamera.h \
- ../../../libs/openFrameworks/3d/ofEasyCam.h src/testApp.h \
+ ../../../libs/openFrameworks/3d/ofEasyCam.h src/ofApp.h \
  ../../../addons/ofxUI/src/ofxUI.h \
  ../../../addons/ofxUI/src/ofxUIDefines.h \
  ../../../addons/ofxXmlSettings/src/ofxXmlSettings.h \
@@ -1033,7 +1033,7 @@ obj/linux64/Debug/src/main.o: src/main.cpp \
 
 ../../../libs/openFrameworks/3d/ofEasyCam.h:
 
-src/testApp.h:
+src/ofApp.h:
 
 ../../../addons/ofxUI/src/ofxUI.h:
 

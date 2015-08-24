@@ -7,6 +7,11 @@
 </Canvas>
 <Widget>
     <Kind>25</Kind>
+    <Name>active quad</Name>
+    <Value>3.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>25</Kind>
     <Name>top</Name>
     <Value>0.000000000</Value>
 </Widget>
@@ -18,7 +23,7 @@
 <Widget>
     <Kind>25</Kind>
     <Name>left</Name>
-    <Value>-nan</Value>
+    <Value>0.000000000</Value>
 </Widget>
 <Widget>
     <Kind>25</Kind>
@@ -28,7 +33,7 @@
 <Widget>
     <Kind>25</Kind>
     <Name>x</Name>
-    <Value>0.500000000</Value>
+    <Value>0.000000000</Value>
 </Widget>
 <Widget>
     <Kind>25</Kind>
@@ -58,12 +63,12 @@
 <Widget>
     <Kind>25</Kind>
     <Name>rows num</Name>
-    <Value>5.000000000</Value>
+    <Value>-0.000000075</Value>
 </Widget>
 <Widget>
     <Kind>25</Kind>
     <Name>columns num</Name>
-    <Value>5.000000000</Value>
+    <Value>-0.000000015</Value>
 </Widget>
 <Widget>
     <Kind>2</Kind>

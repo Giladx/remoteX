@@ -32,13 +32,23 @@
 </Widget>
 <Widget>
     <Kind>2</Kind>
+    <Name>save file</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>load file</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
     <Name>eb on/off</Name>
     <Value>0</Value>
 </Widget>
 <Widget>
     <Kind>25</Kind>
     <Name>power</Name>
-    <Value>0.000000000</Value>
+    <Value>1.000000000</Value>
 </Widget>
 <Widget>
     <Kind>25</Kind>
@@ -53,12 +63,12 @@
 <Widget>
     <Kind>25</Kind>
     <Name>left edge</Name>
-    <Value>0.300000012</Value>
+    <Value>0.000000000</Value>
 </Widget>
 <Widget>
     <Kind>25</Kind>
     <Name>right edge</Name>
-    <Value>0.300000012</Value>
+    <Value>0.000000000</Value>
 </Widget>
 <Widget>
     <Kind>25</Kind>

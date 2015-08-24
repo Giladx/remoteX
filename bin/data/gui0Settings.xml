@@ -11,14 +11,19 @@
     <Value>0</Value>
 </Widget>
 <Widget>
+    <Kind>2</Kind>
+    <Name>v load</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
     <Kind>25</Kind>
     <Name>v x scale</Name>
-    <Value>1.000000000</Value>
+    <Value>0.000000002</Value>
 </Widget>
 <Widget>
     <Kind>25</Kind>
     <Name>v y scale</Name>
-    <Value>1.000000000</Value>
+    <Value>0.000000002</Value>
 </Widget>
 <Widget>
     <Kind>2</Kind>
