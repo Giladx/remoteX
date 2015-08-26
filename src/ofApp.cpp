@@ -426,7 +426,7 @@ void ofApp::guiEvent(ofxUIEventArgs &e)
     cout << "got event from: " << name << endl;
     ofxOscMessage m;
     m.setAddress("/active/set");
-    m.addFloatArg(sliderValue->getValue());
+    m.addFloatArg((int) sliderValue->getValue());
     sender.sendMessage(m);
     }
     if(name == "v on/off")
